@@ -1,7 +1,7 @@
 # Simple Interest Calculator
 
 ## About
-This Simple Interest Calculator is a web-based tool that allows users to calculate the interest on a principal amount over a period of time. The project is built using HTML, CSS, and JavaScript and was developed as part of the course CAD101EN: Introduction to Cloud Development with HTML, CSS, and JavaScript provided by IBM.
+This Simple Interest Calculator is a web-based tool that allows users to calculate the interest on a principal amount over a period of time. The project is built using HTML, CSS, and JavaScript and was developed as part of the course [CAD101EN: Introduction to Cloud Development with HTML, CSS, and JavaScript] (https://www.edx.org/learn/web-development/ibm-introduction-to-web-development-with-html5-css3-and-javascript) provided by IBM through edX.
 
 ## Features
 - User-friendly interface for entering the principal amount, interest rate, and time period.
