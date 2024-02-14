@@ -38,6 +38,5 @@ This is my course certificate for [ CAD101EN: Introduction to Cloud Development 
 ## Contact
 For inquiries, feel free to reach out via GitHub or email.
 
----
 
 Anton David Guaman Davila
